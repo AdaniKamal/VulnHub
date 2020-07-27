@@ -6,7 +6,7 @@ Write-Up for VulnHub Machine
 | :---------------------: |:-----------------------------------------------------------------:|:-----------------:|
 | Investigator: 1         | [Link](https://www.vulnhub.com/entry/investigator-1,504/#)        | :heavy_check_mark:|
 | CyberSploit: 1          | [Link](https://www.vulnhub.com/entry/cybersploit-1,506/)          | :x:|
-| Me and My Girlfriend: 1 | [Link](https://www.vulnhub.com/entry/me-and-my-girlfriend-1,409/) | :x:|
+| Me and My Girlfriend: 1 | [Link](https://www.vulnhub.com/entry/me-and-my-girlfriend-1,409/) | :heavy_check_mark:|
 | EnuBox: Mattermost      | [Link](https://www.vulnhub.com/entry/enubox-mattermost,414/)      | :x:|
 | InfoSec Prep: OSCP      | [Link](https://www.vulnhub.com/entry/infosec-prep-oscp,508/)      | :x:|
 | Pwned: 1                | [Link](https://www.vulnhub.com/entry/pwned-1,507/)                | :heavy_multiplication_x:|
