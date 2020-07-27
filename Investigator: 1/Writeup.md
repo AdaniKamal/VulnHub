@@ -16,10 +16,10 @@
 * adb
 
 **Exploitation**
-* 
+* adb shell (su)
 
 **Privilege Escalation**
-* 
+* adb (rm and uninstall)
 
 **Capturing the flag**
 * root.txt
@@ -34,7 +34,7 @@ netdiscover
 > Make sure [Investigator: 1](https://www.vulnhub.com/entry/investigator-1,504/#) machine connection is set to NAT.
 
 ```
-nmap -A 10.10.24.60
+nmap -A 192.168.235.155
 ```
 
 ```
@@ -73,8 +73,8 @@ I then browse to the http://ip:8080
 ![port 80](https://user-images.githubusercontent.com/44063862/88506490-9bc84600-d00c-11ea-8fea-582ff9f6d698.png)
 
 Hint:
-• Agent ‘s’
-• 6666666666
+* Agent ‘s’
+* 6666666666
 
 But, we do not know what this hint for. So, just note it, we will get to it later.
 
