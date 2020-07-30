@@ -2,8 +2,8 @@
 
 Write-Up for VulnHub Machine
 
-|No|        Machine          |                             Link                                  |       Done        |
-|1 | :---------------------: |:-----------------------------------------------------------------:|:-----------------:|
+|No |        Machine          |                             Link                                  |       Done        |
+|:-:| :---------------------: |:-----------------------------------------------------------------:|:-----------------:|
 |2 | Investigator: 1         | [Link](https://www.vulnhub.com/entry/investigator-1,504/#)        | :heavy_check_mark:|
 |3 | CyberSploit: 1          | [Link](https://www.vulnhub.com/entry/cybersploit-1,506/)          | :heavy_check_mark:|
 |4 | Me and My Girlfriend: 1 | [Link](https://www.vulnhub.com/entry/me-and-my-girlfriend-1,409/) | :heavy_check_mark:|
@@ -18,11 +18,11 @@ Write-Up for VulnHub Machine
 |13| Sunset: Dusk            | [Link](https://www.vulnhub.com/entry/sunset-dusk,404/)            | :o:|
 |14| Sunset: Sunrise         | [Link](https://www.vulnhub.com/entry/sunset-sunrise,406/)         | :o:|
 |15| Sunset: Dawn2           | [Link](https://www.vulnhub.com/entry/sunset-dawn2,424/)           | :o:|
-|16| Sunset: Dawn3           | [Link](https://www.vulnhub.com/entry/sunset-dawn3,436/)           | :o:|
-|17| Sunset: Solstice        | [Link](https://www.vulnhub.com/entry/sunset-solstice,499/)        | :o:|
-|18| Sunset: Decoy           | [Link](https://www.vulnhub.com/entry/sunset-decoy,505/)           | :o:|
-|19| Sunset: Twilight        | [Link](https://www.vulnhub.com/entry/sunset-twilight,512/)        | :o:|
-|20| Sunset: Midnight        | [Link](https://www.vulnhub.com/entry/sunset-midnight,517/)        | :o:|
+|15| Sunset: Dawn3           | [Link](https://www.vulnhub.com/entry/sunset-dawn3,436/)           | :o:|
+|16| Sunset: Solstice        | [Link](https://www.vulnhub.com/entry/sunset-solstice,499/)        | :o:|
+|17| Sunset: Decoy           | [Link](https://www.vulnhub.com/entry/sunset-decoy,505/)           | :o:|
+|18| Sunset: Twilight        | [Link](https://www.vulnhub.com/entry/sunset-twilight,512/)        | :o:|
+|19| Sunset: Midnight        | [Link](https://www.vulnhub.com/entry/sunset-midnight,517/)        | :o:|
 
 
 **Guide:**
